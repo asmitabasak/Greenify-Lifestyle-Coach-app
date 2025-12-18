@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+.env
+.env.local
+
+# React Native / Expo
+.expo/
+.expo-shared/
+android/
+ios/
+web-build/
+
+# Prisma
+prisma/migrations/
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
